@@ -13,7 +13,7 @@ The news content from the learning datasets is primarily composed of specific cl
 ## Reminders
 
 1. Running the code in the ModelBuild notebook will randomize the raw dataset again, which means that the produced model and results may vary significantly from ours. Use the ModelTest notebook to use our model. <br>
-2. Unzip all zipped files in the FinalEnglish folder to ensure that the code runs properly.<br><br>
+2. Unzip all zipped files in the English folder to ensure that the code runs properly.<br><br>
 
 ## Datasets
 
