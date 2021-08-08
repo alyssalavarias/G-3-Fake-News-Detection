@@ -13,3 +13,10 @@ The news content from the learning datasets is primarily composed of specific cl
 ## Reminders
 1. Running the code in the ModelBuild notebook will randomize the raw dataset again, which means that the produced model and results may vary significantly from ours. Use the ModelTest notebook to use our model. <br>
 2. Unzip all zipped files in the FinalEnglish folder to ensure that the code runs properly.
+
+## Datasets
+All datasets used in this project were obtained from the following repositories:
+<li>
+  <ul> https://github.com/aaroncarlfernandez/Philippine-Fake-News-Corpus
+  <ul> https://github.com/jcblaisecruz02/Tagalog-fake-news
+    </li>
