@@ -16,5 +16,5 @@ The news content from the learning datasets is primarily composed of specific cl
 
 ## Datasets
 All datasets used in this project were obtained from the following repositories:
-<li> https://github.com/aaroncarlfernandez/Philippine-Fake-News-Corpus
-<li> https://github.com/jcblaisecruz02/Tagalog-fake-news
+<li> English News Dataset - https://github.com/aaroncarlfernandez/Philippine-Fake-News-Corpus
+<li> Tagalog News Dataset - https://github.com/jcblaisecruz02/Tagalog-fake-news
